@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "413514666753",
+    "project_id": "rexmanexchange-204ac",
+    "storage_bucket": "rexmanexchange-204ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413514666753:android:d65a31ef70e4d2420e0100",
+        "android_client_info": {
+          "package_name": "com.rexmanExchange.rexmanexchange"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413514666753-748qt796eg9i57u4og6r1tcqrn7op544.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rexmanExchange.rexmanexchange",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "413514666753-mfa2klamutritgrmrppugitcpmb0rcsf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rexmanExchange.rexmanexchange",
+            "certificate_hash": "0fa37c84130a9490c00a9283ec8d6b884be30fd0"
+          }
+        },
+        {
+          "client_id": "413514666753-ilpu4f38a68f6lavsiso5l2bo4k8im9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1GahhwVVjYz8JN_d_rlyiu7biy8p6_t8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413514666753-0gdiq3hsp1lajdr1n4tgaml3usu5u9kn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "413514666753-p4bo6hjduunk07qfqite89f3nlgbuvrt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rexmanExchange.rexman"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
